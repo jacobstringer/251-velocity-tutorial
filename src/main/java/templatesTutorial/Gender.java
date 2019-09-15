@@ -1,4 +1,4 @@
-package nz.ac.massey.cs.sdc.tutorial3;
+package templatesTutorial;
 
 public enum Gender {
 	MALE,FEMALE
